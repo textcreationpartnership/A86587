@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To every member of Parliament Charles Hotham of Peter-house in Cambridge presents this following brief account of the proceedings of the Committee for Reformation of the Universities, in their depriving him of his fellowship in the said colledge, together with his exceptions against those proceedings. ...</title>
+            <author>Hotham, Charles, 1615-1672?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86587</idno>
+            <idno type="STC">Wing H2899</idno>
+            <idno type="STC">Thomason 669.f.17[32]</idno>
+            <idno type="STC">ESTC R211614</idno>
+            <idno type="EEBO-CITATION">99870325</idno>
+            <idno type="PROQUEST">99870325</idno>
+            <idno type="VID">163282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163282)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To every member of Parliament Charles Hotham of Peter-house in Cambridge presents this following brief account of the proceedings of the Committee for Reformation of the Universities, in their depriving him of his fellowship in the said colledge, together with his exceptions against those proceedings. ...</title>
+                  <author>Hotham, Charles, 1615-1672?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 15, 1653"; "[illegible] Parliament".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Cambridge --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:163282:1" rendition="simple:additions"/>
+            <p>TO every Member of Parliament <hi>Charles Hotham</hi> of <hi>Peter-houſe</hi> in <hi>Cambridge</hi> preſents this following brief Account of the proceedings of
+the Committee for Reformation of the Univerſities, in their depriving him of his Fellowſhip in the ſaid Colledge, together with his Exceptions againſt thoſe
+proceedings. In anſwer to ſuch ſuggeſtions as may poſſibly be made in Parliament by his adverſaries; who by their preſence there, will have the opportunity of
+objecting againſt him, when himſelf cannot be permitted in perſon to make a Reply. And for ſuch a clear ſtating the Queſtion of his Appeal, as that he may at length, af<g ref="char:EOLhyphen"/>ter
+his near twelve Moneths attendance, have a ſpeedy Judgement in Parliament, without being further delayed, and again put in danger of being wronged by a tedious
+unneceſſary reference to the uncertain Report of a Committee. His long attendance for a Hearing having already been more burdenſome to him, then the worſt of Cen<g ref="char:EOLhyphen"/>ſures.
+Himſelf having been thereby enfor't, to his great expence, and prejudice of his ſtudies, to attend almoſt, a whole year at the Parliament door, while another
+haſtily put in by that Committee, hath ſtood poſſeſt of his legal and juſt right.</p>
+            <p>A true and perfect Copy of their proceedings out of the publike Journal Book of that Committee, being the only true ground for a Superiour Judicature to proceed
+upon in Appeals of this nature.</p>
+            <div type="order">
+               <opener>
+                  <dateline>
+                     <date>May 22. 1651.</date> At the Committee for Reformation of the Univerſities.</dateline>
+               </opener>
+               <p>ORdered That Doctor <hi>Palmer,</hi> Mr. <hi>Nevil,</hi> Mr. <hi>Oldſworth,</hi> Mr. <hi>Moile,</hi> Mr. <hi>Millington,</hi> Mr. <hi>Dormer,</hi> Mr. <hi>Peter Temple,</hi> and Mr. <hi>Rous,</hi> or any two of them be a Sub-Committee;
+to conſider of the Book this day preſented to this Committee, Entituled, <hi>The Petition and Argument of Mr.</hi> Hotham, &amp;c. And to Report their opinions con<g ref="char:EOLhyphen"/>cerning
+the ſame to this Committee on this day ſeven night.</p>
+            </div>
+            <div type="report">
+               <head>The Report.</head>
+               <head>The Petition and Argument of Mr. Hotham.</head>
+               <p>THe Book, though without a name, owned by him, diſperſed by him, his Letter about it, Epiſtle to the Committee, his Argument againſt the Order of the Sub-Com<g ref="char:EOLhyphen"/>mittee,
+<hi>pag.</hi> 11, 12, 13.</p>
+               <p>This I ſay, That that power which can eject a man out of his legal poſſeſſion for a miſdemeanour of a date near two years old, committed and puniſhed in the daies of his minority,
+long before his entrance into that poſſeſſion, muſt ſure be very tranſcendent, and above that of any, either Common Law, or Chancery that I have heard, <hi>pag.</hi> 137, 138.</p>
+               <closer>
+                  <signed>Gilbert Millington. Peter Temple.</signed>
+               </closer>
+            </div>
+            <div type="resolution">
+               <head>
+                  <date>May 29. 1651.</date> At the Committee for Reformation of the Univerſities.</head>
+               <p>VPon hearing the Report from <hi>Mr.</hi> Millington, touching the Book entituled <hi>The Petition and Argument of Mr.</hi> Hotham, &amp;c. And upon long and ſerious debate
+thereof,</p>
+               <p>
+                  <hi>It is Reſolved by this Committee.</hi>
+               </p>
+               <p>That the writing and publiſhing of the ſaid Book, which was this day publikely owned before this Committee by the ſaid Mr. <hi>Hotham,</hi> is ſcandalous, and againſt the
+priviledge of Parliament.</p>
+               <p>
+                  <hi>Reſolved by this Committee.</hi>
+               </p>
+               <p>That Mr. <hi>Hotham,</hi> Fellow of <hi>Peter-houſe</hi> in <hi>Cambridge,</hi> be deprived of his Fellowſhip in the ſaid Colledge from this time forward, And the Preſident of the ſaid Col<g ref="char:EOLhyphen"/>ledge
+is to ſee that this be put in execution accordingly.</p>
+               <p>Preſent at the making of this Order, beſides the Chairman, were theſe</p>
+               <p>Members following.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Mr. Oldſworth.</item>
+                        <item>Mr. Salloway Sen.</item>
+                        <item>Sir. Arthur Haſlerig.</item>
+                        <item>
+                           <hi>Mr.</hi> Say.</item>
+                        <item>
+                           <hi>Mr.</hi> Millington.</item>
+                        <item>Mr. Peter Temple.</item>
+                        <item>Mr. Rous.</item>
+                        <item>Col. Harvey.</item>
+                        <item>Ex. by me R. Needler, C. C.</item>
+                        <item>James Challoner.</item>
+                        <item>Robert Brewſter.</item>
+                        <item>Law. Whitaker.</item>
+                        <item>Will. Say.</item>
+                        <item>Gilbert Millington.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="exceptions_to_the_proceedings">
+               <head>Exceptions againſt the fore-mentioned Proceedings.</head>
+               <p>1. THe Sub-Committees not indifferent diſcharge of their truſt, which was to conſider and report their opinions of the Book in general, which they did not, but neg<g ref="char:EOLhyphen"/>lecting
+the general ſcope of the Book, wholly tending to the advancement of a Common-wealth intereſt, only culled out of the Preface and Concluſion ſuch paſ<g ref="char:EOLhyphen"/>ſages
+as ſeemed diſtaſtful, and preſented thoſe only to the Committee.</p>
+               <p>2. Their delivering in their Report, not while he was preſent, but after he was withdrawn, ſo that he had no means of knowing his Charge, or making any Defence.</p>
+               <p>3. Granting he had been, according to Juſtice, admitted to the hearing of his charge, and making his defence, the charge ſhould have contained a recital of a breach of
+ſome Law, which it did not, and the defence ſhould have been admitted to thoſe two neceſſary points of inquiſition, 1. <hi>An fecerit. 2. An jure fecerit,</hi> to matter of right
+aſwell as of fact; but the queſtion of fact was not moved to him, in reference to any precedent charge (which was not, as far as he knows, delivered in till he had firſt
+owned the Book) and from the latter and moſt neceſſary part of a defence, <hi>viz.</hi> To the point of right he was wholly excluded.</p>
+               <p>4. The writing and publiſhing of his Book was reſolved to be ſcandalous, but he conceive that a puniſhable ſcandal muſt be ſuch only as the Law determines to be of
+that nature, and not left to the breaſt of every Judge or Committee to determine and puniſh at their own arbitrary diſcretion. Beſides, if what he hath written be true,
+he hopes 'twill be accounted no ſcandal.</p>
+               <p>5. It appears not that the publiſhing the proceedings of any Court without their licence, is a thing unlawful, or that to publiſh a Committees proceedings without their
+leave, is any breach of priviledge of Parliament. And by the way, he cannot but ſtand amazed that ſuch printing, if only matter of fact or right, Chriſtianly and truly ſta<g ref="char:EOLhyphen"/>ted
+without the leaſt falſification, untrue imputations, or uncivil raylings upon any, ſhould be ſuch a ſcandal in the eyes of many: the ſame thing being ſo commonly practiſed
+in our legal Courts of Judicature; and beſides, it being much to the Parliaments Honour to have their proceedings ſuch as they may allow and countenance the publication
+of them to all the world. But if any ſhall be found to have in a Committee groſly abuſed the truſt committed to them by Parliament, the manifeſting of thoſe perſons
+enormities in a way of ſeeking redreſs from the juſtice of the Houſe, is no diſhonour to the Committee in general, or to the Parliament, but rather 'twill be eſteemed their
+greateſt honour to hear and redreſs the juſt complaints of any, even againſt their own members. Now to give full notice to every member of the Houſe, and others con<g ref="char:EOLhyphen"/>cerned,
+of the whole ſtate of the Caſe without printing, 'twas near impoſſible, his bodily ſtrength not ſufficing to tranſcribe ſo many Copies himſelf; and to have done it
+by others, would have been too vaſt a charge: yet was it neceſſary for him, to counterbalance the advantage his adverſaries had of miſinforming the members of the Houſe,
+by ſome large and particular information of the whole truth in all its circumſtances. Beſides, there was ſome neceſſity of publication of theſe proceedings in all places
+where his name, ſo eminently blaſted by this Cenſure, was known or heard of. If a Committee of Malignants had done him this evil, he might have born it, the cenſure of
+ſuch known enemies had been no ſlander; but for a Committee of Parliament, whoſe honour and intereſt he had alwayes, throughout the whole wars, and by this very Book
+ſo faithfully aſſerted, thus highly to cenſure him, was a deep ſtain upon his repute, not to be otherwiſe waſht off, then by a publike vindication, eſpecially his complaints to
+the Parliament, by their multitude of other affairs, finding ſo ſlow and difficult an audience.</p>
+               <p>6. Of Parliament priviledges, not known to be ſuch by any due promulgation, a breach cannot be juſtly puniſhable.</p>
+               <p>7. <hi>Quere,</hi> whether it belongs not ſolely to the Law, or Parliament it ſelf to declare their own privileges, or to the proper Committee of priviledges, and therefore
+whether for this Committee to take upon them to determine of the priviledges of that grand body, and puniſh a breach thereof, was not in them a breach of priviledge.</p>
+               <p>8. Committees in their original Conſtitutions, were never ſet up to the arbitrary Courts, but only to be executors of the new emergent Parliamentary Laws, as were
+the ordinary Judges of the old eſtabliſht Laws, and therefore are to proceed according to thoſe rules, not their own arbitrary diſcretion, elſe they would ſeem to hold
+too much reſemblance with ſo many Star-Chambers and High Commiſſions: yet was it he thinks never heard of even in thoſe moſt arbitrary Courts, that a man was ſen<g ref="char:EOLhyphen"/>tenced
+without being admitted to hear his charge, and make his defence both to matter of right and fact.</p>
+               <p>9. A man put into a Fellowſhip by Parliamentary Authority, is by that power inveſted with the ſame rights as one regularly elected into his Fellowſhip: Now ſuch as
+are elected into Fellowſhips, were never conceived juſtly ejectable, but for a tranſgreſſion of ſome local Statute of the Founder, or Law of the Nation declared puniſha<g ref="char:EOLhyphen"/>ble,
+with ſuch forfeiture: One formerly admitted by mandate, was not more ejectable at the Kings will, then one legally elected. Therefore the Petitioner being made
+Fellow by authority of Parliament, renders him not at all the more obnoxious to an arbitrary cenſure.</p>
+               <p>10. Thoſe words culled out againſt him by the Reporters, were ſpoken of one, who having petitioned the Committee for a Fellowſhip in our Colledge, they did there<g ref="char:EOLhyphen"/>upon
+order us to elect a godly and learned perſon into that Fellowſhip: We looking at this man, as the moſt eminent in all good qualifications, and tacitly recommend<g ref="char:EOLhyphen"/>ed
+to us by the Committee it ſelf, choſe him into the ſaid Fellowſhip: but Doctor <hi>Seaman</hi> ſuggeſting to the Committee that he was guilty of Hereſie, and that he had
+once drunk the Kings health, though he was not the principal, but only occaſionally preſent, and the fault beſides both committed and puniſht in the dayes of his mino<g ref="char:EOLhyphen"/>rity,
+near three years before that judgement; he having all his life both before and after that ſhort ſeducement, given abundant evidence of his piety and good affe<g ref="char:EOLhyphen"/>ction
+to the State; the Committee did notwithſtanding at the ſole inſtance of Doctor <hi>Seaman,</hi> eject this man out of his legal poſſeſſion, newly conferred on him by a due
+election of the Preſident and Fellows, according to Juſtice, and our Founders Statute, and put in Doctor <hi>Seamans</hi> Sizar, a man uncapable by Statute, into his room. There<g ref="char:EOLhyphen"/>fore
+tis left to the judgement of every indifferent man, whether his deſcant upon thoſe proceedings were not very temperate, and abundantly within the bounds of mo<g ref="char:EOLhyphen"/>deſty,
+when he only affirmed that that power which could do thoſe things, muſt ſure be very tranſcendent, and above that of any, either Common Law or Chancery, that
+he had heard of. Beſides, in that very paſſage preſented by the Reporters to the Committee, they much wronged him, both in their omiſſion of that preceding introdu<g ref="char:EOLhyphen"/>ction,
+which might have cauſed a more favourable interpretation, and miſ-reciting the very words themſelves, as may appear by comparing their recital with the expreſ<g ref="char:EOLhyphen"/>ſion
+it ſelf, <hi>pag.</hi> 137. of his Book, laſt Edition.</p>
+               <p>11. If any object to him his expreſſions of Mr. <hi>Byfield:</hi> He anſwers, that he could not but call a Spade a Spade, and wiſhes they had been by that Committee taken
+notice of to a better purpoſe, that mans manifeſt and frequent intruſions having been in the eyes of many a great ſcandal to their proceedings.</p>
+               <p>12. There are (as common fame gives out) ſome other objections againſt him whiſpered into mens ears by ſome Clergy complying Monarchiſts, as that he holds
+erroneous opinions, and is diſ-affected to the preſent Government; but he hopes, better credit will be given to the language of his actions, and to the teſtimonies of
+thoſe Gentlemen of the Univerſity of known worth and fidelity to the State, who have known his converſation theſe many years, then that ſuch rumours ſhould be gi<g ref="char:EOLhyphen"/>ven
+ear to. And he is well aſſured twill appear by all his words and actions when they ſhall come to an open ſcanning, that a redundancy, not want of affection to true
+Religion and this Commonwealth, hath been the only cauſe of theſe aſperſions from counterfeit Profeſſors, and of all his other ſuffrings.</p>
+               <p>Yet if ought of this nature was in his abſence objected againſt him by any of the Committee when the Queſtion of his Printed Book of the Negative Voice was in
+Debate, or ſhall now be repeated in Parliament, he hopes twill by all indifferent men be lookt at as a moſt groſs impertinency: the Queſtion being then in Committee
+only concerning his Printed Book of the Negative Voice referred to a Sub-committee to conſider, and make Report of to that Committee, which Report (as appears
+by their own Regiſter) was the only ground of their Sentence; and much more impertinent muſt theſe ſuggeſtions needs be in Parliament; the matter humbly ten<g ref="char:EOLhyphen"/>dred
+to their Judgement being only, whether the Prerogative of a Negative Voice as inconſiſtent with a Commonwealth-Intereſt ſhall be forthwith aboliſht; and
+whether a Sentence, pronounc't againſt a Member of this Common-wealth, and known Friend to the publick Intereſt without his being allowed the Common Juſtice
+of knowing his Accuſer, hearing his Charge and making his Defence, be not in all Law and Equity a meer Nullity, and of right to be declared ſuch by the Supream Au<g ref="char:EOLhyphen"/>thority
+of this Commonwealth.</p>
+               <p>If notwithſtanding any ſhall trouble the Wiſdom of Parliament with ſuch impertinencies, he hopes, that by whomſoever objected, they will among juſt men be ac<g ref="char:EOLhyphen"/>counted
+no juſt ground of Cenſure till the truth and weight of them appear upon a full hearing of both parties, and mean while that this preſent extrajudicial Sentence,
+with all proceedings thereupon be revoked and himſelf reſtored to his Right and Poſſeſſion again in as full and ample manner, as if he had never been ejected by
+that Committee.</p>
+               <p>And finally, that the Negative Voice, the root of this and many other miſchiefs, in all its threefold branches; of having the power of 1. <hi>Calling and diſſolving of
+Meetings. 2. Propoſing or refuſing of Queſtions. 3. Acting or neglecting the Reſolves of the Major part.</hi> Plac't in the ſole Power of one Man of the Community,
+be as a preſſing Grievance, ſpeedily and for ever aboliſht by the wiſdom, and to the great Honour of this preſent Parliament.</p>
+               <closer>
+                  <signed>CHARLES HOTHAM.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
